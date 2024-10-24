@@ -14,7 +14,7 @@ This repository provides the code and the instructions for the lab sessions asso
 
 # The assignments in English
 
-These assignments were designed to execute in jupyter notebooks
+Jupyter notebooks that you can execute in Google Colab:
 
 * [Agent 1](docs/agent1.ipynb): the agent who avoided the ordinary
 * [Agent 2](docs/agent2.ipynb): the agent who thrived on good vibes
@@ -32,4 +32,6 @@ Ces instructions sont prévues pour être réalisées à partir d'un clone de ce
 
 # Learn more
 
-See how developmental learning applies to robotics in the [PetitCat](https://github.com/OlivierGeorgeon/osoyoo) project.
+* [Course 2024](https://eu01web.zoom.us/rec/play/EPmd-6POQz1Dz9M4Pi8IyBoC_A-EiBSNcfqSuvHixIVoONXL7f0RrAhg619A5XvMqUMaJrG0YyhKyiw4.xASIDuUxviA3xbzC?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Feu01web.zoom.us%2Frec%2Fshare%2FkkmT0RHFoovctgea6JM74ZxNLvrzB0mY32alikbNC73YV7YJpDiQJcyXAVLf9Zq-.vY3o7QTS166adn6g) The recording of an introductory course at Reykjavik University via Zoom
+* [Course 2014](https://www.youtube.com/playlist?list=PLlSPp5EpW5vEkajUvAG7r9HgDamIzZLUe): Recording of my course at Université Claude Bernard Lyon on youtube 
+* [The PetitCat project](https://github.com/OlivierGeorgeon/osoyoo): applying developmental AI to robotics
